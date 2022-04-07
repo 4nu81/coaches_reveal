@@ -35,3 +35,19 @@ div.logo img {
   position: absolute;
   height: 150px;
 }
+
+div.qrcode img {
+  left: calc(100% - 160px);
+}
+
+.reveal img.teampic {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+div.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
