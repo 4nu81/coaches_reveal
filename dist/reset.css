@@ -40,6 +40,12 @@ div.qrcode img {
   left: calc(100% - 160px);
 }
 
+@media only screen and (max-width: 600px) {
+  div.logo img {
+    height: 75px;
+  }
+}
+
 .reveal img.teampic {
   max-width: 150px;
   max-height: 150px;
