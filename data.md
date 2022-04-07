@@ -21,7 +21,7 @@
 
 ![Andi](img/andi.jpg) <!-- .element: class="teampic" -->
 
-Phone: +49 162 235 7892
+Phone: [+49 162 235 7892](phone:+491622357892)
 
 ![QR Phone](img/qr-code-phone-andi.png) <!-- .element: class="teampic" -->
 
