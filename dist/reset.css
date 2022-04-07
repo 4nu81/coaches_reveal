@@ -44,6 +44,10 @@ div.qrcode img {
   div.logo img {
     height: 75px;
   }
+
+  div.qrcode img {
+    left: calc(100% - 85px);
+  }
 }
 
 .reveal img.teampic {
