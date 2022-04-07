@@ -28,3 +28,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, main, menu, nav, section {
   display: block;
 }
+
+div.logo img {
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  height: 150px;
+}
