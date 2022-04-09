@@ -76,7 +76,7 @@ violation leads to immediate turnover with quick restart
 ===
 
 No Over and Back when ball over center line and:
-+ it's a shot <!-- .element: class="fragment" -->
++ it's a shot hitting the goalpipe <!-- .element: class="fragment" -->
 + loose ball last touched by defense <!-- .element: class="fragment" -->
 + loose ball violation by defense (play-on) <!-- .element: class="fragment" -->
 + ball goes out of bounds caused by defense <!-- .element: class="fragment" -->
@@ -87,9 +87,9 @@ No Over and Back when ball over center line and:
 
 ===
 
-On Free Play a defense cannot "defend the ball" until 5 yards from the awarded Player during live ball
+On restart a defense cannot "defend the ball" until 5 yards from the awarded Player during live ball
 
-"defending the ball" means defending against player awarded Free Play while "personal possession" <!-- .element: class="fragment" -->
+"defending the ball" means defending against player awarded restart while "personal possession" <!-- .element: class="fragment" -->
 
 with losing "personal possession" the restrain ends <!-- .element: class="fragment" -->
 
@@ -106,9 +106,8 @@ Non-Quick Restart when:
 + within 20 yards of either Goal <!-- .element: class="fragment" -->
 + teammate within 5 yards <!-- .element: class="fragment" -->
 + not in same relative field position <!-- .element: class="fragment" -->
-+ time serving penalties being communicated <!-- .element: class="fragment" -->
++ referees flag is on the field <!-- .element: class="fragment" -->
 + injured player on field <!-- .element: class="fragment" -->
-+ no second on-field official ready for restart <!-- .element: class="fragment" -->
 
 ====
 
