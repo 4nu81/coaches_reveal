@@ -79,7 +79,6 @@ No Over and Back when ball over center line and:
 + it's a shot hitting the goalpipe <!-- .element: class="fragment" -->
 + loose ball last touched by defense <!-- .element: class="fragment" -->
 + loose ball violation by defense (play-on) <!-- .element: class="fragment" -->
-+ ball goes out of bounds caused by defense <!-- .element: class="fragment" -->
 
 ====
 
@@ -120,6 +119,7 @@ Non-Quick Restart when:
 
 * Official Gametime is that of the Timekeeper at the Table <!-- .element: class="fragment" -->
 * Final Score is that of the Head Official <!-- .element: class="fragment" -->
+* There is no Stick-Check after sudden victory goal <!-- .element: class="fragment" -->
 
 ====
 
